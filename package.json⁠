@@ -5,7 +5,10 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next     "dev": "next dev application",
+    "build": "next build application",
+    "start": "next start application"
+"
   },
   "dependencies": {
     "next": "latest",
